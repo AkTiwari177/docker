@@ -1,4 +1,4 @@
-# Docker IaC project 
+# Docker IaC automation project 
 
 
 ##Getting started
