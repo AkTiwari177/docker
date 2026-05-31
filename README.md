@@ -1,10 +1,2 @@
-# Docker IaC automation project 
-
-
-##Getting started
-Please refer to the documentation
-
-
-
-## Get support
--Issue [https://github.com/AkTiwari177/docker/issues]
+# Docker project
+This Docker project contains Infrastructure as Code (IaC) templates, configurations, and other technical things required to build and run desired software stack workloads as containerized applications.
